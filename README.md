@@ -1,8 +1,6 @@
-<div style="display:flex" align="center" dir:"auto"> 
-                <div style="display: flex; margin:auto">
-                  <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api?username=NaCl117&show_icons=true&icon_color=d35482&title_color=d35482&text_color=39290f&border_radius=10&bg_color=f0e0c5&rank_icon=percentile&border_color=d35482&ring_color=b62f60&include_all_commits=true&custom_title=🌸Estatísticas🌸"/>
-                </div>
-                <div style="display: flex; margin:auto">
-                  <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaCl117&title_color=d35482&text_color=39290f&border_radius=5&bg_color=f0e0c5&border_color=d35482&custom_title=🌸Linguagens🌸"/>
-                </div>
-              </div>
+<div class='container'>
+<img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=user&show_icons=true&theme=blue-green" />
+&nbsp;
+&nbsp;
+<img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=user&theme=blue-green&langs_count=8&layout=compact" /></div>
+</div>
