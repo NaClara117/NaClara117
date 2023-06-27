@@ -26,6 +26,7 @@
   <img height="40" align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="40" align="center" alt="Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+ &nbsp;&nbsp;&nbsp;
   <img align="right" height="180em" alt="Ana" src="https://im.ezgif.com/tmp/ezgif-1-2ea328115d.gif">
 </div>
   
