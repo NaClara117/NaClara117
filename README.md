@@ -1,7 +1,3 @@
-
-<div style="align-items: center; align-self: center; align-content: center; text-align: center;" class='container'>
-  <img style="margin:auto; height: 150px;" class="img" src="https://github.com/NaCl117/NaCl117/blob/output/github-contribution-grid-snake2.svg" />
-</div>
 ## Hi, I am Ana! 
 </br>
 
