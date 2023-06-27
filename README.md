@@ -4,4 +4,9 @@
 <img style="margin:auto; height: 150px;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaCl117&title_color=d35482&text_color=39290f&border_radius=5&bg_color=f0e0c5&border_color=d35482&custom_title=🌸Linguagens🌸&langs_count=6&layout=compact" />
 </div>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/NaCl117/NaCl117/blob/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/NaCl117/NaCl117/blob/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://github.com/NaCl117/NaCl117/blob/output/github-contribution-grid-snake.svg">
+</picture>
 
