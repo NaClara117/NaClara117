@@ -33,8 +33,8 @@
 ## Contact 
 <div> 
   <a href="https://www.linkedin.com/in/naclara117" target="_blank">
-   <img alt="Twitter URL" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fnacl117&style=for-the-badge&logo=linkedin&logoColor=white&label=LINKEDIN&labelColor=0073b1&color=006094">
-
+   <img alt="Twitter URL" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fnacl117&style=for-the-badge&logo=linkedin&logoColor=white&label=LINKEDIN&labelColor=0073b1&color=006094"></a>
+<a href = "mailto: analves.ax@gmail.com"><img alt="Twitter URL" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fmail.google.com%2Fmail&style=for-the-badge&logo=gmail&logoColor=white&label=EMAIL&labelColor=d23827&color=b31908">
  </a> 
   <a href="https://twitter.com/naclara117" target="_blank">
    <img alt="Twitter URL" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fnaclara117&style=for-the-badge&logo=twitter&logoColor=white&label=TWITTER&labelColor=1d9bf0&color=0088E3">
@@ -42,7 +42,7 @@
   <a href="https://instagram.com/naclara117" target="_blank">
    <img alt="Twitter URL" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Finstagram.com%2Fnaclara117&style=for-the-badge&logo=instagram&logoColor=white&label=INSTAGRAM&labelColor=fe39a9&color=e60082">
 </a>
-  <a href = "mailto: analves.ax@gmail.com"><img alt="Twitter URL" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fmail.google.com%2Fmail&style=for-the-badge&logo=gmail&logoColor=white&label=EMAIL&labelColor=d23827&color=b31908">
+  
 </a>
  </br>
 </br>
