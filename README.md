@@ -1,12 +1,12 @@
 ## Hi, I am Ana! 
 </br>
 
- <div>
-  <a href="https://github.com/ NaCl117">
+ <!-- <div>
+  <a href="https://github.com/ NaClara117">
    <img align="center" height="170" src="https://github-readme-stats.vercel.app/api?username= NaClara117&show_icons=true&icon_color=d35482&title_color=d35482&text_color=39290f&border_radius=10&bg_color=f0e0c5&rank_icon=percentile&border_color=d35482&ring_color=b62f60&include_all_commits=true&custom_title=🌸Estatísticas🌸"/>
-   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api?username= NaCl117"/>
+   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api?username= NaClara117"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username= NaClara117&title_color=d35482&text_color=39290f&border_radius=5&bg_color=f0e0c5&border_color=d35482&custom_title=🌸Linguagens🌸&langs_count=6&layout=compact"/>
-</div>
+</div> -->
  
  ## Skills
 <div style="display: inline_block"><br>
@@ -25,7 +25,7 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="40" align="center" alt="Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
  &nbsp;&nbsp;&nbsp;
-  <img align="right" height="180em" alt="Ana" src="https://im.ezgif.com/tmp/ezgif-1-2ea328115d.gif">
+  <img align="right" height="180em" alt="Ana" src="https://cdn.discordapp.com/attachments/1116041450300391427/1123290876362371164/myGif.gif">
 </div>
   
 </br>
