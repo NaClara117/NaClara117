@@ -2,11 +2,11 @@
 </br>
 
   <div> 
- <!-- <a href="https://github.com/ NaClara117">
-   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api?username= NaClara117&show_icons=true&icon_color=d35482&title_color=d35482&text_color=39290f&border_radius=10&bg_color=f0e0c5&rank_icon=percentile&border_color=d35482&ring_color=b62f60&include_all_commits=true&custom_title=🌸Estatísticas🌸"/>
-   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api?username= NaClara117"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username= NaClara117&title_color=d35482&text_color=39290f&border_radius=5&bg_color=f0e0c5&border_color=d35482&custom_title=🌸Linguagens🌸&langs_count=6&layout=compact"/>
-</div> -->
+ <a href="https://github.com/ NaClara117">
+   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api?username=NaClara117&show_icons=true&icon_color=d35482&title_color=d35482&text_color=39290f&border_radius=10&bg_color=f0e0c5&rank_icon=percentile&border_color=d35482&ring_color=b62f60&include_all_commits=true&custom_title=🌸Estatísticas🌸"/>
+   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api?username=NaClara117"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaClara117&title_color=d35482&text_color=39290f&border_radius=5&bg_color=f0e0c5&border_color=d35482&custom_title=🌸Linguagens🌸&langs_count=6&layout=compact"/>
+</div>
  
  ## Skills
 <div style="display: inline_block"><br>
